@@ -1,0 +1,27 @@
+body{
+  background-color: #a3a3a3
+}
+#editor{
+  position:fixed;
+  float:left;
+  width:47%;
+  margin: auto;
+  height:100vh;
+  padding: 10px;
+  font-family: "Garamond";
+  font-size: 17px;
+  background-color: #ecd5d7
+}
+#preview{
+  float: right;
+  width:47%;
+  margin: auto;
+  height:100vh;
+  border-style: solid;
+  border-width:1px;
+  padding: 10px;
+  font-family: "Garamond";
+  font-size: 17px;
+  overflow-y: scroll;
+  background-color: #e5e3f3
+}
